@@ -1,0 +1,11 @@
+.mainTitle {
+  padding: 2px;
+  padding-bottom: 7px;
+  padding-top: 0px;
+  margin: 0px;
+  margin-bottom: -7px;
+  border: 2px solid rgb(100, 100, 100);
+  width: fit-content;
+  border-radius: 5px 5px 0px 0px;
+  border-bottom-style: hidden
+}
